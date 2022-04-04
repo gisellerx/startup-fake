@@ -1,2 +1,2 @@
 # startup-fake
-Fake Startup with email subscription option from mailchimp. 
+Practice Startup with email subscription option from mailchimp. 
